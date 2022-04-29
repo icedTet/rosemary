@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+svg {
+  width: 100%;
+}
+.outer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+g {
+  margin-top: 1rem;
+}

@@ -183,6 +183,11 @@
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
   integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
+"@types/vara@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@types/vara/-/vara-1.1.1.tgz#998309f1a1b4b9bac317df2662687185e2a0b48f"
+  integrity sha512-tO6EMJauFDYodUEtvn/LdsK3vdZZEtwLaRd+WtjFPv/dge16RvoqNsY8zUZdzwaGOAv1AJnV5ecqN9izlvYEaQ==
+
 acorn-node@^1.6.1:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/acorn-node/-/acorn-node-1.8.2.tgz#114c95d64539e53dede23de8b9d96df7c7ae2af8"
@@ -949,6 +954,11 @@ util-deprecate@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
+
+vara@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/vara/-/vara-1.4.0.tgz#4eb0f0a2c2cc54344edc4e43a23db6e22a883baf"
+  integrity sha512-5yi+GgV5sLmMYcU1Z3r+Xdgd5awDcP4ULHzTyiSL2J/VbjizgWzwlVMqXO5IqGR7GItzUcnPDksjr8xONaW22w==
 
 xtend@^4.0.2:
   version "4.0.2"
