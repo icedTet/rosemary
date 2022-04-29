@@ -11,6 +11,7 @@
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "vanilla-tilt": "^1.7.2",
     "vara": "^1.4.0"
   },
   "devDependencies": {

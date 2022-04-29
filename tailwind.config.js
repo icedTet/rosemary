@@ -18,6 +18,9 @@ const rotateX = plugin(function ({ addUtilities }) {
     ".rotate-x-160": {
       transform: "rotateX(160deg)",
     },
+    ".rotate-x-180": {
+      transform: "rotateX(180deg)",
+    },
   });
 });
 module.exports = {

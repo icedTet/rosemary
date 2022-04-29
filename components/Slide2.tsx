@@ -67,7 +67,7 @@ export const Slide2 = () => {
             className={`absolute top-1/2 -translate-y-1/2 right-0 translate-x-2/3 rotate-[16deg]`}
           >
             <img
-              src="rosemary.png"
+              src="thyme.png"
               className={`w-48 p-4 bg-green-300 rounded-md shadow-md `}
             />
           </Transition>
